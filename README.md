@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brayan Prado</h1>
 <h3 align="center">Student the seventh semester of engineering in Science and Systems at the University the San Carlos de Guatemala; I like the program, video games, anime and read mitology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanpradomarroquin&label=Profile%20views&color=0e75b6&style=flat" alt="brayanpradomarroquin" /> 
+<p align="left">
 <img src="https://img.shields.io/github/followers/BrayanPradoMarroquin
 "></p>
 
