@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brayan Prado</h1>
 <h3 align="center">Student the seventh semester of engineering in Science and Systems at the University the San Carlos de Guatemala; I like the program, video games, anime and read mitology.</h3>
 
-<p align="left">
-<img src="https://img.shields.io/github/followers/BrayanPradoMarroquin
-"></p>
+![GitHub followers](https://img.shields.io/github/followers/BrayanPradoMarroquin)
+
 
 ![perfil](perfil.gif)
 <p align="left">
