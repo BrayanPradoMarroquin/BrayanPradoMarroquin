@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanPradoMarroquin&layout=compact&theme=ocean_dark)](https://github.com/BrayanPradoMarroquin/github-readme-stats)
 
-![Brayan-PM's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanPradoMarroquin&count_private=true&show_icons=true&theme=ocean_dark&include_all_commits=true)
+![Brayan-PM's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanPradoMarroquin&show_icons=true&theme=ocean_dark&include_all_commits=true)
